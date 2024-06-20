@@ -1,0 +1,25 @@
+Space Shooter Game
+A simple space shooter game written in C++ using the Turbo C++ compiler.
+Features
+Player-controlled rocket that can move left and right to avoid enemy rockets
+Randomly generated enemy rockets that move across the screen
+Scorekeeping to track the player's progress
+Game over when the player's rocket is hit by an enemy rocket
+How to Run
+To run the game, you'll need to have Turbo C++ installed on your system. Follow these steps:
+Open Turbo C++ and create a new project.
+Copy the provided code into a new file in the project.
+Compile the code by pressing the "Compile" button or pressing Ctrl+F9.
+Run the game by pressing the "Run" button or pressing Ctrl+F2.
+The game will start with a menu screen, allowing you to choose between "Play Game" and "Exit". Select "Play Game" to start the game.
+Controls
+Left Arrow: Move the rocket to the left
+Right Arrow: Move the rocket to the right
+'q': Quit the game
+Gameplay
+The objective of the game is to avoid the enemy rockets for as long as possible. The player's rocket is represented by a yellow triangle, and the enemy rockets are represented by gray rectangles.
+The game ends when the player's rocket is hit by an enemy rocket. The final score is displayed on the game over screen.
+Contributing
+If you'd like to contribute to this project, feel free to submit a pull request. Improvements and bug fixes are always welcome.
+License
+This project is licensed under the MIT License.
